@@ -5,6 +5,6 @@
   "spam-idns",
   "spam-tlds",
   "spam-tlds-allow",
-  "allowlist.apple",
+  "native.apple",
   "native.microsoft"
 ]
