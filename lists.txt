@@ -1,6 +1,6 @@
 badware
 referral
-tlds
+spam-tlds
 native.roku
 native.tiktok
 native.microsoft
