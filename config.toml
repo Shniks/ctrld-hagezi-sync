@@ -1,2 +1,0 @@
-[profiles]
-"ControlD" = ["allowlist.apple-pr", "badware", "most-abused-tlds", "referral", "native.roku", "native.tiktok-aggressive", "nsfw", "allowlist"]
