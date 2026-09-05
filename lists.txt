@@ -1,5 +1,8 @@
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/badware-hoster-folder.json
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/referral-allow-folder.json
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-idns-folder.json
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-folder.json
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/spam-tlds-allow-folder.json
+allowlist.apple-pr
+badware
+most-abused-tlds
+referral
+native.roku
+native.tiktok-aggressive
+nsfw
+allowlist
