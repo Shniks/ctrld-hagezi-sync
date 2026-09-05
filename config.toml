@@ -1,9 +1,0 @@
-[profiles]
-"ControlD" = [
-  "badware",
-  "referral",
-  "spam",
-  "native.roku",
-  "native.tiktok",
-  "native.microsoft"
-]
