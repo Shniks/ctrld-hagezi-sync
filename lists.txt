@@ -1,6 +1,9 @@
 badware
 referral
+spam-idns
 spam-tlds
+spam-tlds-allow
 native.roku
 native.tiktok
 native.microsoft
+allowlist.apple
