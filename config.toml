@@ -2,9 +2,8 @@
 "ControlD" = [
   "badware",
   "referral",
-  "spam-idns",
-  "spam-tlds",
-  "spam-tlds-allow",
-  "native.apple",
+  "spam",
+  "native.roku",
+  "native.tiktok",
   "native.microsoft"
 ]
