@@ -1,8 +1,8 @@
-allowlist.apple-pr
+allowlist.apple
 badware
-most-abused-tlds
+spam-tlds
 referral
 native.roku
-native.tiktok-aggressive
+native.tiktok
 nsfw
 allowlist
