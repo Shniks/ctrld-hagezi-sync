@@ -1,8 +1,6 @@
-allowlist.apple
 badware
-spam-tlds
 referral
+tlds
 native.roku
 native.tiktok
-nsfw
-allowlist
+native.microsoft
