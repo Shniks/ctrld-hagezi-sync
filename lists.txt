@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/badware-hoster-folder.json
+# https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/badware-hoster-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/referral-allow-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/spam-tlds-combined-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/apple-private-relay-allow-folder.json
