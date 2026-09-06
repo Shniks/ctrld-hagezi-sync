@@ -7,6 +7,3 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld
 https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/native-tracker-microsoft-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/native-tracker-roku-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/native-tracker-tiktok-aggressive-folder.json
-https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/spam-idns-folder.json
-https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/spam-tlds-allow-folder.json
-
