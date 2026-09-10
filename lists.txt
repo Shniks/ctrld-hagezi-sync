@@ -5,3 +5,5 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld
 https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/native-tracker-amazon-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/controld/native-tracker-roku-folder.json
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-samsung-folder.json
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-tiktok-folder.json
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/controld/native-tracker-microsoft-folder.json
